@@ -7,9 +7,6 @@ File Name: hello.py
 @email: lengfo@163.com
 @version: 1.0.0
 
-第一个Python程序 - hello, world!
-向伟大的Dennis M. Ritchie先生致敬
-
 """
 
 
@@ -24,3 +21,5 @@ print('你好', '世界')
 print('hello', 'world', sep=', ', end='!')
 print('goodbye, world', end='!\n')
 
+name = input('请输入你的名字：')
+print('你好', name, '！')  
