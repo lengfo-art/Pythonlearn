@@ -1,16 +1,18 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
 File Name: 画一只小猪.py
 
 @author: lengf
-@date: 2025-04-12
+@date: 2025-04-13
 @email: lengfo@163.com
 @version: 1.0.0
 
+这个程序画了一只小猪，包括鼻子、头、耳朵、眼睛、脸颊、嘴巴。
+使用turtle库绘制。
+
+运行这个程序，可以看到绘制一只小猪。
+
 """
-
-
 
 from turtle import * # type: ignore
 
