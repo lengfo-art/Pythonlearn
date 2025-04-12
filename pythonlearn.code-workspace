@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.allowForcePush": false,
+		"editor.cursorBlinking": "smooth"
+	}
+}
