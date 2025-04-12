@@ -1,11 +1,17 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 """
-输入年份 如果是闰年输出True 否则输出False
-加入判断是否输入0退出程序。
+File Name: 画一只小猪.py
 
-Version: 0.1
-Author: 林风
-Date: 2025-04-11
+@author: lengf
+@date: 2025-04-12
+@email: lengfo@163.com
+@version: 1.0.0
+
 """
+
+
+
 from turtle import * # type: ignore
 
 
