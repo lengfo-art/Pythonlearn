@@ -1,16 +1,17 @@
+# -*- coding: utf-8 -*-
 """
-掷骰子决定做什么事情
-使用match语句来判断掷出的点数
-比if-elif-else语句更简洁
+File Name:    投骰子.py
 
-Version: 0.2
-Author: 林风
-Date: 2025-04-10
+@author: lengf
+@date: 2025-04-13
+@email: lengfo@163.com
+@version: 1.0.0
+使用match语句实现投骰子游戏，根据随机生成的数字，输出对应的动作。
 
 
-Author: 骆昊
-Date: 2018-02-28
 """
+
+
 
 from random import randint
 

@@ -1,3 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+File Name
+
+@author: lengf
+@date: 2025-04-13
+@email: lengfo@163.com
+@version: 1.0.0
+"""
+
 """
 2025年最新个人所得税计算器（按月预扣预缴）
 说明：
